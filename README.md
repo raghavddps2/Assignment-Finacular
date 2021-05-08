@@ -4,7 +4,7 @@ This is the respository for submission of the home assignment for Finacular.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dependencies.
 
 ```bash
 pip install -r requirements.txt
