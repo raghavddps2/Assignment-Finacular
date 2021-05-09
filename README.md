@@ -1,4 +1,4 @@
-# Stock Price Prediction using LSTMr.
+# Stock Price Prediction using LSTM.
 
 ## Installation
 
