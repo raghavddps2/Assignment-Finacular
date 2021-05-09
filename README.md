@@ -1,6 +1,4 @@
-# Stock Price Prediction using LSTM
-
-This is the respository for submission of the home assignment for Finacular.
+# Stock Price Prediction using LSTMr.
 
 ## Installation
 
